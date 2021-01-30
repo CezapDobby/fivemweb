@@ -8,6 +8,9 @@ The texts are inserted in the respective .html file. The individual links are in
 To run formulars, you need download this file!!
 Link : https://uloz.to/tam/ed6331b7-5487-40b5-81a6-e3150af4e0f7
 
+# Requirements⚡
+You need PHP (Developet on 7.3), Apache2 or other webserver.
+
 # Resolution 🖥️
 Website is avaible only on PC
 
